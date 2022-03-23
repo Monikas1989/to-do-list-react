@@ -6,12 +6,14 @@ The implementation of this project will be a continuation of previous task "List
 
 This app is in polish language.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Languages
 
 HTML, CSS, JS, REACT.
 
-##
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
