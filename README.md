@@ -10,7 +10,7 @@ This app is in polish language.
 
 HTML, CSS, JS, REACT.
 
-
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
