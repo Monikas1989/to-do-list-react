@@ -12,7 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 HTML, BEM, CSS, JS, REACT, BABEL, WEBPACK.
 
+## demo
 
+https://monikas1989.github.io/to-do-list-react/
 
 
 ## Available Scripts
