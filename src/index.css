@@ -10,5 +10,5 @@ html {
 .body {
   font-family: 'Montserrat', sans-serif;
   background-color: gainsboro;
-  
+  word-break: break-word;
 }
